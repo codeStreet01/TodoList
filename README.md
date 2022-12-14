@@ -4,7 +4,7 @@ React Todo App.
     live demo: https://mytodoolistt.netlify.app/
 
 
-    Made with ❤️ by Shaif Arfan
+    Made with ❤️ by Vaibhav Agrawal
     
     
     Project Description
